@@ -7,9 +7,9 @@
 		<key>Blue Component</key>
 		<real>0.27</real>
 		<key>Green Component</key>
-		<real>0.223</real>
+		<real>0.224</real>
 		<key>Red Component</key>
-		<real>0.0882</real>
+		<real>0.0852</real>
 	</dict>
 	<key>Ansi 1 Color</key>
 	<dict>
@@ -131,11 +131,11 @@
 	<key>Ansi 8 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.34</real>
+		<real>0.329</real>
 		<key>Green Component</key>
-		<real>0.289</real>
+		<real>0.287</real>
 		<key>Red Component</key>
-		<real>0.145</real>
+		<real>0.159</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>
@@ -205,9 +205,9 @@
 		<key>Blue Component</key>
 		<real>0.27</real>
 		<key>Green Component</key>
-		<real>0.223</real>
+		<real>0.224</real>
 		<key>Red Component</key>
-		<real>0.0882</real>
+		<real>0.0852</real>
 	</dict>
 </dict>
 </plist>

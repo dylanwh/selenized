@@ -1,4 +1,4 @@
-t.prefs_.set('color-palette-overrides',["#ebebeb", "#d6000c", "#1d9700", "#c49700", "#0064e4", "#dd0f9d", "#00ad9c", "#878787", "#cdcdcd", "#bf0000", "#008400", "#af8500", "#0054cf", "#c7008b", "#009a8a", "#282828"]);
-t.prefs_.set('foreground-color', "#474747");
+t.prefs_.set('color-palette-overrides',["#e6e6e6", "#c5000d", "#288800", "#b58400", "#004fe0", "#cc008e", "#00a08a", "#747474", "#c2c2c2", "#aa0000", "#147300", "#9d7100", "#0040c8", "#b3007a", "#008a77", "#1e1e1e"]);
+t.prefs_.set('foreground-color', "#373737");
 t.prefs_.set('background-color', "#ffffff");
-t.prefs_.set('cursor-color', 'rgba(255,255,255,0.5)');
+t.prefs_.set('cursor-color', 'rgba(0,0,0,0.5)');
